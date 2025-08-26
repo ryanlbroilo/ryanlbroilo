@@ -41,9 +41,9 @@ Revival do clássico jogo social do Facebook, recriado em **Unity** usando asset
 ---
 
 ### 🏎️ **Corsa Nobile** (projeto em desenvolvimento)  
-Plataforma automotiva inspirada em marketplaces de luxo (ex.: JamesEdition):  
+** O Ecossistema ideal para amantes de carros
 - **Stack:** Next.js 15, TypeScript  
-- **Projeto Ambicioso, focado em criar um ecossistema digital para amantes de adrenalina, além de uma rede social, a gestão definitiva para sua garagem, seu ponto de controle para eventos, clubes privados e compra e venda de veiculos**
+- **Projeto Ambicioso** , focado em criar um ecossistema digital para amantes de adrenalina, além de uma rede social, a gestão definitiva para sua garagem, seu ponto de controle para eventos, clubes privados e compra e venda de veiculos
 
 ---
 
