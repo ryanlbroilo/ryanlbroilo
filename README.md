@@ -22,31 +22,6 @@
 - **Linguagens:** JavaScript, Python (automação, análise de dados), SQL  
 - **Outros:** Git/GitHub, jsPDF, SheetJS  
 
----
-
-## 📂 Projetos em destaque
-
-### 🚚 **Checklist Logma**  
-Sistema corporativo de gestão de frota, desenvolvido em **React + Firebase**:  
-- Checklists de veículos  
-- Dashboard de abastecimentos com KPIs  
-- Manutenção de veículos
-- Controle de acesso por papéis (Admin, Gestor, Operacional)  
-
----
-
-### 🎮 **CarTown Revival**  
-Revival do clássico jogo social do Facebook, recriado em **Unity** usando assets originais. Projeto pessoal para estudo de engines de jogos e arquitetura cliente/servidor.
-
----
-
-### 🏎️ **Corsa Nobile** (projeto em desenvolvimento)  
-**O Ecossistema ideal para amantes de carros**
-- **Stack:** Next.js 15, TypeScript  
-- **Projeto Ambicioso** , focado em criar um ecossistema digital para amantes de adrenalina, além de uma rede social, a gestão definitiva para sua garagem, seu ponto de controle para eventos, clubes privados e compra e venda de veiculos
-
----
-
 ## 📊 GitHub Stats
 
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&theme=dracula)  
