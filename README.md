@@ -1,39 +1,43 @@
-# 👋 Olá! Eu sou o Ryan
+# 👋 Hello! I'm Ryan  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-RS**  
-💻 Desenvolvedor em constante evolução, apaixonado por tecnologia, sistemas web e soluções inovadoras para o mundo automotivo e corporativo.
-
----
-
-## ⚡ Sobre mim
-
-- 🚀 Interesse principal em **desenvolvimento web** (React, Next.js, Firebase, Node.js) e **automação** com Python.  
-- 🔐 Explorando também **cibersegurança** (Google Cybersecurity Certificate, TryHackMe, HackTheBox).  
-- 📊 Experiência prática em **projetos acadêmicos e profissionais**, unindo teoria com aplicações reais.  
-- 🏎️ Apaixonado por **automóveis e motorsport**, trago essa inspiração para projetos de software (ex.: Corsa Nobile, dashboards de F1, gestão de frotas).  
+🎓 Student of **Systems Analysis and Development** at **PUC-RS**  
+🚀 **Founder & Developer at [Evoris](#)** — a studio focused on **modern and minimalist web solutions**.  
+💻 Passionate about **technology, UI/UX, and web development**, always seeking continuous growth.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## ⚡ About Me  
 
-- **Front-end:** React (Vite, Next.js), Bootstrap 5, Tailwind, Chart.js, Recharts  
-- **Back-end / Cloud:** Firebase (Auth, Firestore, Storage, Hosting), Node.js, Express  
-- **Banco de Dados:** MySQL, Oracle, Firestore, SQL Server  
-- **Linguagens:** JavaScript, Python (automação, análise de dados), SQL  
-- **Outros:** Git/GitHub, jsPDF, SheetJS  
+- ✨ I work as an **independent developer** at **Evoris**, building custom digital solutions for clients and personal projects.  
+- 🌐 Strong focus on **full-stack web development** with **Next.js, React, Vue.js, Node.js, Tailwind CSS, TypeScript, and Firebase**.  
+- 🎨 Experience with **UI/UX design**: prototyping in Figma, user-centered design, responsiveness, accessibility, and modern interfaces.  
+- 🔐 Complementary interests in **cybersecurity** (Google Cybersecurity Certificate, TryHackMe, HackTheBox).  
+- 🏎️ Passionate about **cars and motorsport**, bringing inspiration to projects such as dashboards, management apps, and automation tools.  
 
-## 📊 GitHub Stats
+---
+
+## 🛠️ Tech Stack  
+
+- **Front-end:** React (Vite, Next.js), Vue.js, Tailwind CSS, Bootstrap 5, Chart.js, Recharts  
+- **Back-end / Cloud:** Node.js, Express, Firebase (Auth, Firestore, Storage, Hosting), REST/GraphQL APIs  
+- **Databases:** MySQL, SQL Server, Oracle, Firestore  
+- **Languages:** JavaScript, TypeScript, Python (automation & data analysis), SQL  
+- **Other Tools:** Git/GitHub, Figma, jsPDF, SheetJS  
+
+---
+
+## 📊 GitHub Stats  
 
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&layout=compact&theme=dracula)  
 
 ---
 
-## 📫 Contato
+## 📫 Contact  
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-lizze-broilo-737102209)  
-- 📧 E-mail: **ryanlizzebroilo@gmail.com**
+- 📧 Email: **ryanlizzebroilo@gmail.com**  
 
 ---
 
-⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução no desenvolvimento de software!
+⭐ Feel free to explore my repositories and follow the journey of **Evoris**, where minimalism, modernity, and technology meet!
