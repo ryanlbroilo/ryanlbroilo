@@ -35,7 +35,7 @@
 
 ## 📫 Contact  
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-lizze-broilo-737102209)  
+- [LinkedIn](https://www.linkedin.com/in/ryanlbroilo)  
 - 📧 Email: **ryanlizzebroilo@gmail.com**  
 
 ---
