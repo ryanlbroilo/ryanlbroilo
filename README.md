@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Ryan  
 
 🎓 Student of **Systems Analysis and Development** at **PUC-RS**  
-🚀 **Founder & Developer at [Evoris](#)** — a studio focused on **modern and minimalist web solutions**.  
+🚀 **Founder & Developer at [Evoris](https://www.linkedin.com/company/evorissoftware/)** — a studio focused on **modern and minimalist web solutions**.  
 💻 Passionate about **technology, UI/UX, and web development**, always seeking continuous growth.  
 
 ---
