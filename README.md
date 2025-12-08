@@ -44,13 +44,19 @@ Current Focus:
   ⚙ C# Games Development
   🔐 Learning Cybersecurity & Red Team Fundamentals
 
-📈 GitHub Stats 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://streak-stats.demolab.com?user=ryanlbroilo&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanlbroilo&theme=tokyo-night&hide_border=true" /> </p>
-🚀 Featured Projects
-Project	Tech	Status
-Evoris · Web Studio	Next.js · TS · Firebase	🟢 Active
-AgroBrain · Agro AI Analytics	Python · ML · Next.js	🔬 R&D phase
-Evolve Investments · Investments Platform	Vite.js · JS · Tailwind	🏎 In development
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanlbroilo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanlbroilo&theme=tokyo-night&hide_border=true)
+
+| Project                              | Tech                         | Status            |
+| ------------------------------------ | ---------------------------- | ----------------- |
+| **Evoris** · Web Studio              | Next.js · TS · Firebase      | 🟢 Active         |
+| **AgroBrain** · Agro AI Analytics    | Python · ML · Next.js        | 🔬 R&D phase      |
+| **Evolve** · Investments Platform    | Vite.js · JS · Tailwind      | 🏎 In development |
+
 
 📫 Contact
 📩 Email: ryanlizzebroilo@gmail.com
