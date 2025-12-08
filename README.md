@@ -1,81 +1,28 @@
-<!-- ========= AVATAR + INTRO ========= -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/113352033?v=4" width="140" style="border-radius: 50%;" />
+# Hi 👋, I'm Ryan
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanlbroilo" alt="ryanlbroilo" /></a> </p>
+
+- 🔭 I'm currently working on **🎓 Student of Systems Analysis and Development — PUC-RS, working in full stack projects as Evoris Founder**
+
+- 🌱 I'm currently learning **Cybersecurity Fundamentals, and Game development**
+
+- 👯 I'm looking to collaborate on **All type of projects**
+
+- 📫 How to reach me **ryanlizzebroilo@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://evoris.vip/web](https://evoris.vip/web)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ryanlbroilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ryanlbroilo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryanlbroilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanlbroilo/" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
-<p align="center">
-  I'm <strong>Ryan </strong>, Full-Stack Developer & Founder of <strong>Evoris</strong>.  
-  I build modern, scalable systems with design precision, performance in mind,  
-  and a love for technology that vai além de código — eu transformo ideias em produto.
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlbroilo&show_icons=true&locale=en&layout=compact" alt="ryanlbroilo" /></p>
 
-<p align="center">
-  🔥 Focused on <strong>Next.js, React, Node, Firebase & Cloud</strong><br/>
-  🚀 Student of <strong>Systems Analysis & Development – PUC-RS</strong><br/>
-  🧠 Builder of dashboards, automation tools & IA features<br/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&locale=en" alt="ryanlbroilo" /></p>
 
----
-
-<!-- ========= STACK ========= -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vue" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-</div>
-
----
-
-<!-- ========= SOCIAL & CONTACT ========= -->
-<div align="center">
-  <a href="https://linkedin.com/in/ryanlbroilo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28"/>
-  </a>
-  <img width="8"/>
-  <a href="mailto:ryanlizzebroilo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-ec4444?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
-  <img width="8"/>
-  <a href="https://github.com/ryanlbroilo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
-  </a>
-  <img width="8"/>
-  <a href="https://evoris.dev" target="_blank">
-    <img src="https://img.shields.io/badge/EVORIS-0a9396?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
-  </a>
-</div>
-
----
-
-<!-- ========= STATS ========= -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ryanlbroilo&theme=dracula&hide_border=false&border_radius=5" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryanlbroilo&theme=dracula&no-frame=false&row=1&margin-w=8&margin-h=8" height="150"/>
-</div>
-
----
-
-<!-- ========= ACTIVITY PACMAN OR DARK ========= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ryanlbroilo&theme=react-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ryanlbroilo&theme=minimal">
-  <img alt="ryan activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanlbroilo&theme=react-dark">
-</picture>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanlbroilo&" alt="ryanlbroilo" /></p>
