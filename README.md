@@ -1,43 +1,57 @@
-# 👋 Hello! I'm Ryan  
+# 👋 Hey! I'm Ryan  
 
-🎓 Student of **Systems Analysis and Development** at **PUC-RS**  
-🚀 **Founder & Developer at [Evoris](https://www.linkedin.com/company/evorissoftware/)** — a studio focused on **modern and minimalist web solutions**.  
-💻 Passionate about **technology, UI/UX, and web development**, always seeking continuous growth.  
-
----
-
-## ⚡ About Me  
-
-- ✨ I work as an **independent developer** at **Evoris**, building custom digital solutions for clients and personal projects.  
-- 🌐 Strong focus on **full-stack web development** with **Next.js, React, Vue.js, Node.js, Tailwind CSS, TypeScript, and Firebase**.  
-- 🎨 Experience with **UI/UX design**: prototyping in Figma, user-centered design, responsiveness, accessibility, and modern interfaces.  
-- 🔐 Complementary interests in **cybersecurity** (Google Cybersecurity Certificate, TryHackMe, HackTheBox).  
-- 🏎️ Passionate about **cars and motorsport**, bringing inspiration to projects such as dashboards, management apps, and automation tools.  
+🔥 Full-Stack Developer & Founder of **Evoris**  
+🎓 Student of **Systems Analysis and Development — PUC-RS**  
+🚀 Focused on building modern, scalable and high-performance applications  
 
 ---
 
-## 🛠️ Tech Stack  
+### 🚀 Tech Badges — Main Stack
 
-- **Front-end:** React (Vite, Next.js), Vue.js, Tailwind CSS, Bootstrap 5, Chart.js, Recharts  
-- **Back-end / Cloud:** Node.js, Express, Firebase (Auth, Firestore, Storage, Hosting), REST/GraphQL APIs  
-- **Databases:** MySQL, SQL Server, Oracle, Firestore  
-- **Languages:** JavaScript, TypeScript, Python (automation & data analysis), SQL  
-- **Other Tools:** Git/GitHub, Figma, jsPDF, SheetJS  
+<p align="left">
+  <!-- Languages -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=000"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+  
+  <!-- Frontend -->
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=000"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/>
+  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=FFD62E"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"/>
+
+  <!-- Backend -->
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&amp;logo=express&amp;logoColor=000"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=000"/>
+
+  <!-- Databases -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+  <img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 👨‍💻 About Me  
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&layout=compact&theme=dracula)  
+I turn ideas into software — from UI to deployment — by combining **clean architecture, UX thinking and cloud engineering**.  
+Focused on performance, design consistency and real-world solutions.
 
----
+Current Focus:
+  🔥JavaScript and Typescript full-stack applications
+  ⚙ C# Games Development
+  🔐 Learning Cybersecurity & Red Team Fundamentals
 
-## 📫 Contact  
+📈 GitHub Stats 
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ryanlbroilo&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://streak-stats.demolab.com?user=ryanlbroilo&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanlbroilo&theme=tokyo-night&hide_border=true" /> </p>
+🚀 Featured Projects
+Project	Tech	Status
+Evoris · Web Studio	Next.js · TS · Firebase	🟢 Active
+AgroBrain · Agro AI Analytics	Python · ML · Next.js	🔬 R&D phase
+Evolve Investments · Investments Platform	Vite.js · JS · Tailwind	🏎 In development
 
-- [LinkedIn](https://www.linkedin.com/in/ryanlbroilo)  
-- 📧 Email: **ryanlizzebroilo@gmail.com**  
-
----
-
-⭐ Feel free to explore my repositories and follow the journey of **Evoris**, where minimalism, modernity, and technology meet!
+📫 Contact
+📩 Email: ryanlizzebroilo@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/ryanlbroilo
