@@ -1,13 +1,72 @@
-# 💫 About Me:
-- ✨ I work as an **independent developer** at **Evoris**, building custom digital solutions for clients and personal projects. - 🌐 Strong focus on **full-stack web development** with **Next.js, React, Vue.js, Node.js, Tailwind CSS, TypeScript, and Firebase**. - 🎨 Experience with **UI/UX design**: prototyping in Figma, user-centered design, responsiveness, accessibility, and modern interfaces. - 🔐 Complementary interests in **cybersecurity** (Google Cybersecurity Certificate, TryHackMe, HackTheBox). - 🏎️ Passionate about **cars and motorsport**, bringing inspiration to projects such as dashboards, management apps, and automation tools.
+# 👋 Hi, I'm Ryan Broilo
 
+I'm a **Web Developer** with hands-on experience building **real-world web applications** for clients and personal projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryanlbroilo/) 
+I currently work as an **independent developer at Evoris**, where I participate in the full development cycle — from idea and UI/UX planning to implementation, deployment, and iteration.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ryanlbroilo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ryanlbroilo&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlbroilo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+My main focus is building **modern, performant, and scalable web interfaces**, especially for **SaaS products, dashboards, and internal systems**.
+
+---
+
+## 🚀 What I Actually Do
+
+- Develop **front-end applications** using **React and Next.js**, focusing on performance, accessibility, and clean UI
+- Build **full-stack solutions** with API integrations, authentication, dashboards, and real-time data
+- Translate **Figma designs into production-ready interfaces**
+- Deploy and maintain applications using **Vercel and Firebase**
+- Work with real requirements, deadlines, and client feedback
+
+---
+
+## 🧠 Technical Focus
+
+**Front-end**
+- React, Next.js, Vue.js
+- TypeScript, JavaScript
+- Tailwind CSS, CSS3
+- Responsive design & accessibility
+
+**Back-end / Infra**
+- Node.js
+- Firebase (Auth, Firestore, Functions)
+- REST APIs
+- FastAPI (Python)
+
+**UI / UX**
+- Figma prototyping
+- Component-driven design
+- User-centered interfaces
+
+**Extras**
+- Basic cybersecurity foundations (Google Cybersecurity Certificate, TryHackMe, Hack The Box)
+- Data visualization (Chart.js, Plotly)
+
+---
+
+## 🧩 What You'll Find Here
+
+This GitHub contains:
+- **Production-like projects** with clean structure and documented decisions
+- Applications with **real use cases**, not tutorial clones
+- Front-end focused repositories with deploys and visual previews
+
+Each relevant project includes:
+- Clear description of the problem
+- Tech stack
+- Screenshots or demos
+- Live deployment (when applicable)
+
+---
+
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ryanlbroilo/
+- 🌐 Projects & cases: coming directly from this profile
+
+---
+
+## ⚙️ Tech Stack Snapshot
+
+React • Next.js • Vue.js • TypeScript • JavaScript  
+Node.js • Firebase • Tailwind CSS • Figma  
+Vercel • Git • REST APIs
