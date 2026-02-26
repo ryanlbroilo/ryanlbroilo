@@ -61,7 +61,7 @@ Each relevant project includes:
 ## 🔗 Links
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ryanlbroilo/
-- 🌐 Projects & cases: coming directly from this profile
+- 🌐 Projects & cases: coming directly from this profile and https://github.com/Evoris-Software repos
 
 ---
 
