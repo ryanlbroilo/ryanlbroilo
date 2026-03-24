@@ -33,6 +33,7 @@
 
 <a href="https://open.spotify.com/album/1stTB0lnfUPfOIHLJeHSyy"><img src="https://i.scdn.co/image/ab67616d0000b27323444c767d67417474f103e3" width="110" title="Sadnecessary – Milky Chance"/></a>
 <a href="https://open.spotify.com/album/7j4ETSgHAFAQcTuQcXuRCY"><img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" width="110" title="Trench – Twenty One Pilots"/></a>
+<a href="https://open.spotify.com/intl-pt/album/3cQO7jp5S9qLBoIVtbkSM1"><img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" width="110" title="Blurryface – Twenty One Pilots"/></a>
 <a href="https://open.spotify.com/album/6TJmQnO44YE5BtTxH8pop1"><img src="https://i.scdn.co/image/ab67616d0000b2738c1029772ceac2ab96593eaa" width="110" title="Hozier – Hozier"/></a>
 <a href="https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"><img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" width="110" title="Room on Fire – The Strokes"/></a>
 <a href="https://open.spotify.com/album/1Events3ynMSAncEoFTyERD"><img src="https://i.scdn.co/image/ab67616d0000b2736e186edfb8fe3710fdc1f7c2" width="110" title="Cosmo's Factory – CCR"/></a>
@@ -40,6 +41,10 @@
 <a href="https://open.spotify.com/album/6fQElzBNTiEMGdIFNMN6Hn"><img src="https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7" width="110" title="True – Avicii"/></a>
 <a href="https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"><img src="https://i.scdn.co/image/ab67616d0000b273d40648f55cadd57796f22455" width="110" title="Stories – Avicii"/></a>
 <a href="https://open.spotify.com/album/3Gv4GYDZDkqKLnHFSXHhMc"><img src="https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b" width="110" title="18 Months – Calvin Harris"/></a>
+<a href="https://open.spotify.com/intl-pt/album/4XHIjbhjRmqWlosjj5rqSI"><img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" width="110" title="LIVING THINGS – Linkin Park"/></a>
+<a href="https://open.spotify.com/intl-pt/album/1Xsprdt1q9rOzTic7b9zYM"><img src="https://i.scdn.co/image/ab67616d0000b273fa8e8cc9d6d0862b7033dbaa" width="110" title="Continuum – John Mayer"/></a>
+<a href="https://open.spotify.com/intl-pt/album/4uG8q3GPuWHQlRbswMIRS6"><img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" width="110" title="Dookie – Green Day"/></a>
+<a href="https://open.spotify.com/intl-pt/album/7xl50xr9NDkd3i2kBbzsNZ"><img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" width="110" title="Stadium Arcadium – Red Hot Chilli Peppers"/></a>
 
 </div>
 
