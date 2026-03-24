@@ -15,7 +15,6 @@
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   ryan broilo · co-founder & cto @ evoris · builder of things
-
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
@@ -27,14 +26,21 @@
 
 ---
 
-## 🎧 what i've been listening to this week
+## 🎵 favorite albums
 
-<!-- This block is automatically updated every 6h via GitHub Action -->
-<!-- See .github/workflows/spotify.yml to configure -->
+<div align="center">
 
-<!--SPOTIFY:start-->
-> _Waiting for the first GitHub Action run..._
-<!--SPOTIFY:end-->
+<a href="https://open.spotify.com/album/1stTB0lnfUPfOIHLJeHSyy"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/d4/90/94d490d1-41bd-1a3a-1dba-0a85b06e3c6b/source/600x600bb.jpg" width="110" title="Sadnecessary – Milky Chance"/></a>
+<a href="https://open.spotify.com/album/7j4ETSgHAFAQcTuQcXuRCY"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/44/27/8e/44278ebc-d920-03b5-6a14-4b1a4d5936c4/source/600x600bb.jpg" width="110" title="Trench – Twenty One Pilots"/></a>
+<a href="https://open.spotify.com/album/6TJmQnO44YE5BtTxH8pop1"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/27/84/2627848d-d97a-6973-54d4-7e5f3f6ed30f/source/600x600bb.jpg" width="110" title="Hozier – Hozier"/></a>
+<a href="https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d6/91/df/d691df5c-a4b2-7e5e-6892-1a34aecc55c5/source/600x600bb.jpg" width="110" title="Room on Fire – The Strokes"/></a>
+<a href="https://open.spotify.com/album/5SXuuuRpukkTvsLuUknva5"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a7/f3/b4/a7f3b4cc-b0b5-31d6-dfd4-a3e7fc06f03c/source/600x600bb.jpg" width="110" title="Whatever People Say I Am – Arctic Monkeys"/></a>
+<a href="https://open.spotify.com/album/6fQElzBNTiEMGdIFNMN6Hn"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3a/6f/49/3a6f4974-3b34-c2c8-5a71-5e58d0bdaa0e/source/600x600bb.jpg" width="110" title="True – Avicii"/></a>
+<a href="https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/fb/03/f0/fb03f073-9ebb-4fba-e0e2-4de9a6c14f2e/source/600x600bb.jpg" width="110" title="Stories – Avicii"/></a>
+<a href="https://open.spotify.com/album/1Events3ynMSAncEoFTyERD"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f8/e3/68/f8e368f7-6e6e-f3b6-a1b0-f3c33f30e2f8/source/600x600bb.jpg" width="110" title="Cosmo's Factory – CCR"/></a>
+<a href="https://open.spotify.com/album/3Gv4GYDZDkqKLnHFSXHhMc"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/22/07/682207a3-1082-d52a-d89d-58b47da3d0b3/source/600x600bb.jpg" width="110" title="18 Months – Calvin Harris"/></a>
+
+</div>
 
 ---
 
@@ -78,8 +84,10 @@ As **CTO**, I lead:
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
