@@ -14,14 +14,15 @@
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  ryan broilo · co-founder & cto @ evoris · builder of things
+  ryan broilo · co-founder & cto @ evoris · democratizing ai 🇧🇷
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-wheat-rho-12.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanlbroilo/)
-[![Evoris](https://img.shields.io/badge/evoris-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Evoris-Software)
+[![EVA HUB](https://img.shields.io/badge/🤖_EVA_HUB-00D9FF?style=for-the-badge&logoColor=black)](https://evahub.com.br)
+[![Evoris](https://img.shields.io/badge/evoris-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Evoris-Software)
 
 </div>
 
@@ -52,17 +53,18 @@
 
 ## 👨‍💻 about me
 
-Co-Founder & **CTO at [Evoris](https://github.com/Evoris-Software)** — a software house and paid traffic agency.<br/>
-I build SaaS, platforms, and systems that solve real problems. From zero to production.
+Co-Founder & **CTO at [Evoris](https://github.com/Evoris-Software)** — a Brazilian tech startup making **AI and software accessible** to businesses of every size.<br/>
+I turn ideas into products people actually use — from zero to production.
 
 ```ts
 const ryan = {
   role:      "Co-Founder & CTO",
   company:   "Evoris",
   location:  "Brazil 🇧🇷",
-  focus:     ["SaaS", "Full-Stack", "Product Engineering"],
-  building:  ["CN Tickets 🎟️", "Vorxa AI 🤖"],
-  motto:     "Ship first. Refine always.",
+  focus:     ["AI Products", "SaaS", "Full-Stack", "Product Engineering"],
+  building:  ["EVA HUB 🤖", "OffCard 💳", "Evoris Pay 💸", "AdapTare 📊"],
+  mission:   "make AI & software accessible to every business in Brazil",
+  motto:     "ship first, refine always",
 }
 ```
 
@@ -70,21 +72,47 @@ const ryan = {
 
 ## 🏢 Evoris
 
-> Software House + Paid Traffic Agency — building digital products and performance-driven campaigns.
+> A Brazilian tech startup on a mission to **democratize access to AI and software** — because advanced technology shouldn't be a privilege of the few.
+
+We take the kind of tech that's usually locked behind big budgets — AI, payments, automation — and ship it simple and affordable enough for any business to actually use. Real products, solving real problems, built for Brazil.
 
 As **CTO**, I lead:
-- Technical architecture across all internal and client products
-- SaaS development from zero to deploy — front, back, infra
-- Stack, tooling, and engineering workflow decisions
-- Continuous iteration based on real metrics and user feedback
+- Product vision & technical architecture across the whole portfolio
+- AI-first product development — from idea to deploy (front, back, infra)
+- Stack, tooling and engineering-workflow decisions
+- Continuous iteration driven by real metrics and user feedback
 
 [![Explore Evoris Repos](https://img.shields.io/badge/Explore_Evoris_Repos-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Evoris-Software)
+
+---
+
+## 🚀 what we're building
+
+Products that put advanced tech in the hands of every business in Brazil.
+
+**🤖 [EVA HUB](https://evahub.com.br)** — *our flagship.* Create your own specialized AI expert in minutes — no code. Train it on your own documents, plug it into WhatsApp, your website or an internal dashboard. LGPD-compliant, hosted in Brazil.
+
+**💳 [OffCard](https://offcard.com.br)** — a marketplace with cashback that rewards people for what they already buy.
+
+**💸 Evoris Pay** — payment infrastructure for businesses: gateway + acquiring, built for Brazilian companies.
+
+**📊 AdapTare** — an ERP to run operations end to end.
+
+<br/>
+
+[![Try EVA HUB](https://img.shields.io/badge/try_EVA_HUB-00D9FF?style=for-the-badge&logoColor=black)](https://evahub.com.br)
 
 ---
 
 ## ⚙️ stack
 
 <div align="center">
+
+### AI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Front-end
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -138,10 +166,10 @@ As **CTO**, I lead:
 Real products — no tutorial clones.
 
 Every relevant repo includes:
-- ✅ Problem it solves
-- ✅ Documented architecture decisions
-- ✅ Demo or screenshots
-- ✅ Live deployment when applicable
+- ✅ the problem it solves
+- ✅ documented architecture decisions
+- ✅ demo or screenshots
+- ✅ live deployment when applicable
 
 Most of the serious work lives at **[github.com/Evoris-Software](https://github.com/Evoris-Software)**.
 
